@@ -1,0 +1,5 @@
+[default]
+cb_url = "https://cbr.ru/scripts"
+
+[global.databases]
+db = { url = "postgres://user:password@localhost:8001/db" }
